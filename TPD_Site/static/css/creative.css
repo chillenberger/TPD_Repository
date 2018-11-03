@@ -179,8 +179,8 @@ img::-moz-selection {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url("../../media/header.jpg");
-  background-image: url("../../media/new_lake_planet.jpeg");
+  background-image: url("../header.jpg");
+  background-image: url("../new_lake_planet.jpeg");
   background-position: center center;
   background-size: cover;
 }
