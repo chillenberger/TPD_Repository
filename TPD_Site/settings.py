@@ -27,7 +27,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'ubq3sz!9$wta&aa)qm#4uvmvav17mst*%$8e01qy8ic^fjnzwh'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = [
     '.tinyplanetdesign.herokuapp.com'
