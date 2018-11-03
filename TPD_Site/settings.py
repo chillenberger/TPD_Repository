@@ -24,13 +24,12 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = os.environ['DJANGO_SECRET_KEY']
-# SECRET_KEY = 'ubq3sz!9$wta&aa)qm#4uvmvav17mst*%$8e01qy8ic^fjnzwh'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = [
-    '.tinyplanetdesign.herokuapp.com'
+    '.herokuapp.com'
 ]
 # ALLOWED_HOSTS =[]
 
