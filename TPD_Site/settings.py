@@ -30,10 +30,10 @@ SECRET_KEY = 'ubq3sz!9$wta&aa)qm#4uvmvav17mst*%$8e01qy8ic^fjnzwh'
 # DEBUG = False
 DEBUG = True
 
-# ALLOWED_HOSTS = [
-#     '.tinyplanetdesign.com'
-# ]
-ALLOWED_HOSTS =[]
+ALLOWED_HOSTS = [
+    '.tinyplanetdesign.herokuapp.com'
+]
+# ALLOWED_HOSTS =[]
 
 # Application definition
 
