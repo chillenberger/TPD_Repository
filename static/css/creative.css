@@ -322,5 +322,10 @@ header.masthead p {
 }
 
 #UpWork_icon{
-  width: 3vw;
+  width: 12vw;
+}
+@media (min-width: 992px) {
+  #upwork_icon{
+    width: 3vw;
+  }
 }
